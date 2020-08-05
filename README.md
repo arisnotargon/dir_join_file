@@ -8,6 +8,7 @@ python3.6 or newer version
 start
 =================
 install dependence by type 
-```pip3 install -r req.txt
+```bash
+pip3 install -r req.txt
 ```
 
